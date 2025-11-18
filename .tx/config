@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[o:blokecoin:p:blokecoin:r:qt-translation-030x]
+file_filter = src/qt/locale/blokecoin_<lang>.xlf
+source_file = src/qt/locale/blokecoin_en.xlf
+source_lang = en
